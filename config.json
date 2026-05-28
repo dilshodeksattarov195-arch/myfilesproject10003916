@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpender",
+        "uuid": 12174844,
+        "checksum": "ocy24"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
